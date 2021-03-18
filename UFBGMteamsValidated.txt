@@ -1,4 +1,5 @@
-[{
+[
+	{
 		"city": "New York",
 		"mascot": "Stars",
 		"short": "NYC",
